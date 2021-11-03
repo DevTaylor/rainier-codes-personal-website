@@ -1,0 +1,11 @@
+.background {
+    width: 236px;
+    height: 474px;
+    background-color: white;
+    border-radius: 32px;
+    padding: 10px;
+    margin: 5px;
+}
+div, span {
+    display: inline-block;
+  }
